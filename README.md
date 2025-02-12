@@ -1,1 +1,1 @@
-# RedBlackTree
+This lab focuses on implementing sorted data structures in Java, including a Red-Black Tree and Graph experiments. The data structures must maintain sorted order and support insertion, deletion, search, and string representation. The lab emphasizes both functional correctness and efficiency analysis across different data sizes.
